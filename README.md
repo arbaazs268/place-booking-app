@@ -1,16 +1,13 @@
 
-##Place Booking App
+#Place Booking App
 
 This project is a Holiday Room Booking App built using React, Express, and MongoDB. It allows users to book rooms for their holidays. The application comes with features like authentication, image uploading, and house details editing.
 
-##IMAGE:
-<div style="display: flex; justify-content: center;">
-    <img src="/home/arbaaz/Pictures/Screenshots/1.png" alt="Image 1" style="width: 45%; margin-right: 5px;">
-    <img src="/home/arbaaz/Pictures/Screenshots/2.png" alt="Image 2" style="width: 45%; margin-left: 5px;">
-</div>
+#IMAGE:
+[!ALT TEXT](/home/arbaaz/Pictures/Screenshots/1.png)
 
 
-##Features
+#Features
 
 User Authentication: Users can sign up and log in securely to the application.
 Room Booking: Users can browse available rooms and book them for their holidays.
